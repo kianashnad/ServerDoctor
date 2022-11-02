@@ -1,4 +1,4 @@
-![](https://github.com/kianashnad/ServerDoctor/banner.jpg)
+![](https://github.com/kianashnad/ServerDoctor/blob/main/banner.jpg)
 
 # Server Doctor
 it's just a simple go program to check the URLs you provide. 
@@ -10,7 +10,6 @@ it's just a simple go program to check the URLs you provide.
 4. prepare the .env file and place the telegram bot token, telegram UUID, and the URLS.
 5. make sure that you seprated the URLs by a comma (`,`) and there's no space. They should also contain `https://`.
 6. run the program!
----
 ## Important points
 - You can deploy it via docker and docker and docker compose as well.
 - In the `docker-compose.yml` file, the resource usage is limited to these:
@@ -22,7 +21,6 @@ it's just a simple go program to check the URLs you provide.
 
 - Feel free to improve the project with a PR
 - You're welcomed to email me if I've had a mistake.
----
 ## License
 ```
 Copyright 2022 Kian Ashnad
